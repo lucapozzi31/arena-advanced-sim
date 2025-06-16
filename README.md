@@ -4,7 +4,9 @@
 ![image](https://github.com/user-attachments/assets/dae9d9fe-58b6-45d0-bb2f-0c45306a792f)
 
 ## Project Overview
-This project simulates a steel fabrication plant handling beam cutting and drilling for structural metal components. The model aims to replicate real-world logic, optimize workflows, and provide insights into productivity and bottlenecks without altering the physical plant.
+This project, carried out during my BSc in Industrial Engineering at SUPSI (Lugano, Switzerland), simulates a steel fabrication plant handling beam cutting and drilling for structural metal components. The model aims to replicate real-world logic, optimize workflows, and provide insights into productivity and bottlenecks without altering the physical plant.
+
+We will analyze performance data using SAP Crystal Reports, balance the plant to optimize resource allocation, and study all machine downtimes to build accurate stochastic distributions of MTTF (Mean Time To Failure) and MTTR (Mean Time To Repair) for each resource.
 
 ## Objectives
 - Simulate the full process flow of the steel fabrication line
